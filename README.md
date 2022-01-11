@@ -23,6 +23,7 @@ Sample Input:
 
 Sample Output: 
 10
+
 ============================================================
 Explanation: 
 You can get on the boat right away if you are the 16th person in line, it takes 10 minutes on the boat
